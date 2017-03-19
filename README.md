@@ -1,7 +1,7 @@
 # Prelude
 
 > Role models are important. <br>
-> -- Officer Alex J. Murphy / RoboCop
+> -- Officer Alex J. Murphy / RoboCop test edit
 
 One thing has always bothered me as a Ruby developer&mdash;Python developers
 have a great programming style reference ([PEP-8][]) and we never got an
